@@ -1,0 +1,36 @@
+.form_container{
+    width: 300px;
+    padding: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    color: #fff;
+    box-shadow: 20px 5px 2px #999;
+    border-radius: 20px;
+}
+
+button{
+    padding: 5px 15px;
+}
+
+.form{
+    padding: 0 7px;
+}
+
+.containers_form{
+    margin-top: 15px;
+}
+
+.form .containers_form input, .form .containers_form select{
+    width: 100%;
+    padding: 7px 0;
+}
+
+.terms_container{
+    margin-top: 10px;
+}
+
+.ingresar_container{
+    text-align: right;
+    margin-top: 10px;
+    padding: 5px 15px;
+}
